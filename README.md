@@ -74,6 +74,10 @@ https://api.themoviedb.org/3/search/movie?query={search_term}&api_key=YOUR_API_K
 └── MovieDiscoveryTests
     └── MovieDiscoveryTests.swift
 ```
+## Screenshots
+![Movie List](https://github.com/snvvenkatesh/MovieDiscovery/blob/main/ScreenShots/MovieList.png?raw=true "MovieList")
+![Movie Search](https://github.com/snvvenkatesh/MovieDiscovery/blob/main/ScreenShots/Movie_Search.png?raw=true "MovieSearch")
+![Movie Detail](https://github.com/snvvenkatesh/MovieDiscovery/blob/main/ScreenShots/MovieDetail.png?raw=true "MovieDetail")
 
 ## Unit Testing
 
